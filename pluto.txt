@@ -5,3 +5,5 @@ This is Doug the alien.
 =======
 I like ending files with newlines. Hah.
 >>>>>>> theirs
+
+The end.
